@@ -11,7 +11,7 @@ const AppNavbar = () => {
         <Navbar expand="lg" className="bg-warning">
             <Container>
                 <Navbar.Brand as={Link} to="/" className='d-flex text-white me-auto fs-2 align-items-center'>
-                    ECommerceAPI
+                    Fitness Tracker
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
